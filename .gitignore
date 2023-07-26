@@ -143,3 +143,10 @@ dmypy.json
 **/bower_components
 10*.tmp.driveupload
 **/.tmp.driveupload
+
+
+model.h3/assets
+model.h3/variables
+model.h3/fingerprint.pb
+model.h3/keras_metadata.pb
+model.h3/saved_model.pb
