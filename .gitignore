@@ -142,3 +142,4 @@ dmypy.json
 **/node_modules
 **/bower_components
 10*.tmp.driveupload
+**/.tmp.driveupload
