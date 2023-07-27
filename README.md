@@ -2,7 +2,7 @@
 
 This repository contains comprehensive notes and practical implementations of Artificial Neural Networks (ANN) with a focus on multi-layer architectures. It serves as a valuable resource for anyone looking to understand and implement multi-layer ANNs from scratch.
 
-** Key highlights of this repository include:
+### Key highlights of this repository include:
 
 Multi-layer ANN Implementation: Detailed step-by-step implementation of multi-layer ANNs using popular machine learning libraries. This includes data preprocessing, model building, training, evaluation, and prediction.
 
